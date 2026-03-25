@@ -59,3 +59,12 @@ SEO-driven content platform focused on practical home cleaning solutions. Design
 ![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=white)
 ![Multilingual](https://img.shields.io/badge/Languages-EN%20%7C%20FR%20%7C%20HT-blue)
+
+---
+
+## 📫 Connect
+
+GitHub: https://github.com/Fredler21  
+LinkedIn: https://linkedin.com/in/fredlergraciapierre-louis  
+
+“Zero Trust: continuous verification and strict access control at every layer.”
