@@ -67,4 +67,6 @@ SEO-driven content platform focused on practical home cleaning solutions. Design
 GitHub: https://github.com/Fredler21  
 LinkedIn: https://linkedin.com/in/fredlergraciapierre-louis  
 
-“Zero Trust: continuous verification and strict access control at every layer.”
+---
+
+> “Zero Trust: continuous verification and strict access control at every layer.”
