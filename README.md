@@ -59,15 +59,3 @@ SEO-driven content platform focused on practical home cleaning solutions. Design
 ![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=white)
 ![Multilingual](https://img.shields.io/badge/Languages-EN%20%7C%20FR%20%7C%20HT-blue)
-
----
-
-## 📊 GitHub Activity
-
-![Fredler's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fredler21&show_icons=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Fredler21)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fredler21&layout=compact)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Fredler21)
