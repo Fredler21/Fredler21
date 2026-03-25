@@ -6,6 +6,18 @@ He contributes to strengthening secure access, enforcing security standards, and
 
 ---
 
+## 💼 Experience
+
+### EdLight Initiative  
+https://code.edlight.org  
+
+- Contributed to backend systems supporting scalable, browser-based learning platforms  
+- Supported secure access and system reliability across low-bandwidth and mobile environments  
+- Helped improve access management to ensure secure and consistent user interaction  
+- Worked on solutions adapted to real-world constraints (limited connectivity, device limitations, power instability)  
+- Contributed to a mission focused on expanding access to technology, education, and digital inclusion
+  ---
+
 ## ⚙️ Technical Skills
 
 **Cybersecurity:**  
