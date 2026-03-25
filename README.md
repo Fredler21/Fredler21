@@ -38,7 +38,7 @@ SEO-driven content platform focused on practical home cleaning solutions. Design
 • Completed cybersecurity simulations with Mastercard and AIG (threat detection, phishing analysis, security awareness)  
 • Applied Python in security-focused scripting and ethical hacking scenarios  
 • Built secure authentication systems using SSH key-based access  
-• Recognized for academic excellence with a 3.79 GPA in Cybersecurity  
+• Recognized for academic excellence with a 3.90 GPA in Cybersecurity  
 
 ---
 
