@@ -14,6 +14,10 @@
 <a href="mailto:fredlerpierrelouis21@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-00FF41?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
 <a href="https://github.com/Fredler21"><img src="https://img.shields.io/badge/GitHub-Follow-00FF41?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" /></a>
 
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Fredler21&style=for-the-badge&color=00ff41&label=PROFILE+VIEWS" />
+
 </div>
 
 ---
@@ -106,6 +110,24 @@ Real-time attack detection platform using decoy admin logins, fake WordPress pag
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fredler21&layout=compact&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&border_color=00ff41" height="165" />
 
 <img src="https://streak-stats.demolab.com?user=Fredler21&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&border=00ff41" height="165" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Fredler21&theme=matrix&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
+
+</div>
+
+---
+
+## 🐍 Watch the Snake Hunt My Contributions
+
+<div align="center">
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fredler21/Fredler21/output/github-snake-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fredler21/Fredler21/output/github-snake.svg" />
+<img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Fredler21/Fredler21/output/github-snake-dark.svg" />
+</picture>
 
 </div>
 
