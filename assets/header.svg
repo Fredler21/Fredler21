@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="260" viewBox="0 0 1040 260" role="img" aria-label="Fredler Gracia Pierre-Louis, Cybersecurity">
+<defs>
+  <radialGradient id="glow" cx="50%" cy="0%" r="85%">
+    <stop offset="0%" stop-color="#00ff41" stop-opacity="0.16"/>
+    <stop offset="45%" stop-color="#00ff41" stop-opacity="0.05"/>
+    <stop offset="100%" stop-color="#00ff41" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#00ff41" stop-opacity="0"/>
+    <stop offset="0.5" stop-color="#00ff41" stop-opacity="0.9"/>
+    <stop offset="1" stop-color="#00ff41" stop-opacity="0"/>
+  </linearGradient>
+  <linearGradient id="nameGrad" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#ffffff"/>
+    <stop offset="1" stop-color="#b8ffcf"/>
+  </linearGradient>
+  <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse">
+    <path d="M26 0H0V26" fill="none" stroke="#00ff41" stroke-opacity="0.045" stroke-width="1"/>
+  </pattern>
+  <clipPath id="frame"><rect width="1040" height="260" rx="14"/></clipPath>
+</defs>
+<style>
+  .name { font: 800 44px 'Segoe UI', Helvetica, Arial, sans-serif; letter-spacing: 2px; }
+  .role { font: 600 15px 'Consolas', 'Courier New', monospace; letter-spacing: 4px; fill: #00ff41; }
+  .term { font: 500 14px 'Consolas', 'Courier New', monospace; fill: #8b949e; }
+  .termg { fill: #00ff41; }
+  .cursor { animation: blink 1.1s steps(1) infinite; }
+  .scan { animation: sweep 7s linear infinite; }
+  .dotp { animation: pulse 2.4s ease-in-out infinite; }
+  @keyframes blink { 0%,55% {opacity:1} 56%,100% {opacity:0} }
+  @keyframes sweep { 0% {transform: translateY(-30px)} 100% {transform: translateY(290px)} }
+  @keyframes pulse { 0%,100% {opacity:.5} 50% {opacity:1} }
+</style>
+<g clip-path="url(#frame)">
+  <rect width="1040" height="260" fill="#0d1117"/>
+  <rect width="1040" height="260" fill="url(#grid)"/>
+  <rect width="1040" height="260" fill="url(#glow)"/>
+  <rect class="scan" width="1040" height="2" y="0" fill="#00ff41" opacity="0.07"/>
+  <path d="M24 44 V24 H44" fill="none" stroke="#00ff41" stroke-width="2" opacity="0.65"/>
+  <path d="M1016 44 V24 H996" fill="none" stroke="#00ff41" stroke-width="2" opacity="0.65"/>
+  <path d="M24 216 V236 H44" fill="none" stroke="#00ff41" stroke-width="2" opacity="0.65"/>
+  <path d="M1016 216 V236 H996" fill="none" stroke="#00ff41" stroke-width="2" opacity="0.65"/>
+  <g>
+    <rect x="340.0" y="30" width="360" height="26" rx="13" fill="#11151c" stroke="#1e2a30"/>
+    <circle class="dotp" cx="362.0" cy="43" r="4" fill="#00ff41"/>
+    <text x="532.0" y="47" text-anchor="middle" style="font: 600 11px 'Segoe UI', Arial, sans-serif; letter-spacing:2px;" fill="#e6edf3">OPEN TO SECURITY ROLES &#183; MIAMI, FL</text>
+  </g>
+  <text class="name" x="520.0" y="122" text-anchor="middle" fill="url(#nameGrad)">FREDLER GRACIA PIERRE-LOUIS</text>
+  <rect x="260.0" y="146" width="520" height="2" fill="url(#rule)"/>
+  <text class="role" x="520.0" y="178" text-anchor="middle">CYBERSECURITY ANALYST &#160;&#9671;&#160; ETHICAL HACKER &#160;&#9671;&#160; THREAT HUNTER</text>
+  <text class="term" x="520.0" y="218" text-anchor="middle"><tspan class="termg">$</tspan> securing systems, one layer at a time<tspan class="termg cursor">&#160;&#9612;</tspan></text>
+  <rect x="0" y="257" width="1040" height="3" fill="url(#rule)"/>
+</g>
+<rect x="0.5" y="0.5" width="1039" height="259" rx="14" fill="none" stroke="#1e2a30"/>
+</svg>
