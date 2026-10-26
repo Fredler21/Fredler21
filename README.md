@@ -111,10 +111,6 @@ Real-time attack detection platform using decoy admin logins, fake WordPress pag
 
 <img src="https://streak-stats.demolab.com?user=Fredler21&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&border=00ff41" height="165" />
 
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Fredler21&theme=matrix&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
-
 </div>
 
 ---
