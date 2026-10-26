@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="334" viewBox="0 0 1040 334" role="img" aria-label="Skills">
+<defs>
+  <linearGradient id="rule2" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#00ff41" stop-opacity="0"/>
+    <stop offset="0.5" stop-color="#00ff41" stop-opacity="0.45"/>
+    <stop offset="1" stop-color="#00ff41" stop-opacity="0"/>
+  </linearGradient>
+</defs>
+<style>
+  .glabel { font: 700 12px 'Segoe UI', Arial, sans-serif; letter-spacing: 5px; fill: #00ff41; opacity: 0.9; }
+  .chip { font: 600 13px 'Segoe UI', Arial, sans-serif; fill: #e6edf3; }
+  .dotp { animation: pulse 2.4s ease-in-out infinite; }
+  @keyframes pulse { 0%,100% {opacity:.45} 50% {opacity:1} }
+</style>
+<text x="520.0" y="30" text-anchor="middle" class="glabel">SECURITY &#38; ANALYSIS</text>
+<rect x="40" y="25" width="382.1" height="1" fill="url(#rule2)"/>
+<rect x="617.9" y="25" width="382.1" height="1" fill="url(#rule2)"/>
+<g>
+<rect x="84" y="48" width="76" height="30" rx="15" fill="#11151c" stroke="#1e2a30"/>
+<circle cx="102" cy="63" r="3.5" fill="#00ff41" class="dotp"/>
+<text x="114" y="68" class="chip">Nmap</text>
+</g>
+<g>
+<rect x="170" y="48" width="84" height="30" rx="15" fill="#11151c" stroke="#1e2a30"/>
+<circle cx="188" cy="63" r="3.5" fill="#00ff41" class="dotp"/>
+<text x="200" y="68" class="chip">Nikto</text>
+</g>
+<g>
+<rect x="264" y="48" width="160" height="30" rx="15" fill="#11151c" stroke="#1e2a30"/>
+<circle cx="282" cy="63" r="3.5" fill="#00ff41" class="dotp"/>
+<text x="294" y="68" class="chip">Ethical Hacking</text>
+</g>
+<g>
+<rect x="434" y="48" width="175" height="30" rx="15" fill="#11151c" stroke="#1e2a30"/>
+<circle cx="452" cy="63" r="3.5" fill="#00ff41" class="dotp"/>
+<text x="464" y="68" class="chip">Incident Response</text>
+</g>
+<g>
+<rect x="619" y="48" width="160" height="30" rx="15" fill="#11151c" stroke="#1e2a30"/>
+<circle cx="637" cy="63" r="3.5" fill="#00ff41" class="dotp"/>
+<text x="649" y="68" class="chip">Threat Analysis</text>
+</g>
+<g>
+<rect x="789" y="48" width="167" height="30" rx="15" fill="#11151c" stroke="#1e2a30"/>
+<circle cx="807" cy="63" r="3.5" fill="#00ff41" class="dotp"/>
+<text x="819" y="68" class="chip">Network Security</text>
+</g>
+<g>
+<rect x="325" y="84" width="160" height="30" rx="15" fill="#11151c" stroke="#1e2a30"/>
+<circle cx="343" cy="99" r="3.5" fill="#00ff41" class="dotp"/>
+<text x="355" y="104" class="chip">Data Encryption</text>
+</g>
+<g>
+<rect x="495" y="84" width="220" height="30" rx="15" fill="#11151c" stroke="#1e2a30"/>
+<circle cx="513" cy="99" r="3.5" fill="#00ff41" class="dotp"/>
+<text x="525" y="104" class="chip">Firebase Security Rules</text>
+</g>
+<text x="520.0" y="146" text-anchor="middle" class="glabel">TECHNOLOGIES &#38; TOOLS</text>
+<rect x="40" y="141" width="378.0" height="1" fill="url(#rule2)"/>
+<rect x="622.0" y="141" width="378.0" height="1" fill="url(#rule2)"/>
+<g>
+<rect x="106" y="164" width="91" height="30" rx="15" fill="#11151c" stroke="#1e2a30"/>
+<circle cx="124" cy="179" r="3.5" fill="#00ff41" class="dotp"/>
+<text x="136" y="184" class="chip">Python</text>
+</g>
+<g>
+<rect x="208" y="164" width="84" height="30" rx="15" fill="#11151c" stroke="#1e2a30"/>
+<circle cx="226" cy="179" r="3.5" fill="#00ff41" class="dotp"/>
+<text x="238" y="184" class="chip">Linux</text>
+</g>
+<g>
+<rect x="302" y="164" width="76" height="30" rx="15" fill="#11151c" stroke="#1e2a30"/>
+<circle cx="320" cy="179" r="3.5" fill="#00ff41" class="dotp"/>
+<text x="332" y="184" class="chip">Bash</text>
+</g>
+<g>
+<rect x="388" y="164" width="106" height="30" rx="15" fill="#11151c" stroke="#1e2a30"/>
+<circle cx="406" cy="179" r="3.5" fill="#00ff41" class="dotp"/>
+<text x="418" y="184" class="chip">Firebase</text>
+</g>
+<g>
+<rect x="504" y="164" width="114" height="30" rx="15" fill="#11151c" stroke="#1e2a30"/>
+<circle cx="522" cy="179" r="3.5" fill="#00ff41" class="dotp"/>
+<text x="534" y="184" class="chip">Firestore</text>
+</g>
+<g>
+<rect x="628" y="164" width="167" height="30" rx="15" fill="#11151c" stroke="#1e2a30"/>
+<circle cx="646" cy="179" r="3.5" fill="#00ff41" class="dotp"/>
+<text x="658" y="184" class="chip">Browser DevTools</text>
+</g>
+<g>
+<rect x="804" y="164" width="129" height="30" rx="15" fill="#11151c" stroke="#1e2a30"/>
+<circle cx="822" cy="179" r="3.5" fill="#00ff41" class="dotp"/>
+<text x="834" y="184" class="chip">API Testing</text>
+</g>
+<g>
+<rect x="436" y="200" width="167" height="30" rx="15" fill="#11151c" stroke="#1e2a30"/>
+<circle cx="454" cy="215" r="3.5" fill="#00ff41" class="dotp"/>
+<text x="466" y="220" class="chip">Microsoft Office</text>
+</g>
+<text x="520.0" y="262" text-anchor="middle" class="glabel">LANGUAGES</text>
+<rect x="40" y="257" width="423.1" height="1" fill="url(#rule2)"/>
+<rect x="576.9" y="257" width="423.1" height="1" fill="url(#rule2)"/>
+<g>
+<rect x="339" y="280" width="99" height="30" rx="15" fill="#11151c" stroke="#1e2a30"/>
+<circle cx="357" cy="295" r="3.5" fill="#00ff41" class="dotp"/>
+<text x="369" y="300" class="chip">English</text>
+</g>
+<g>
+<rect x="448" y="280" width="91" height="30" rx="15" fill="#11151c" stroke="#1e2a30"/>
+<circle cx="466" cy="295" r="3.5" fill="#00ff41" class="dotp"/>
+<text x="478" y="300" class="chip">French</text>
+</g>
+<g>
+<rect x="549" y="280" width="152" height="30" rx="15" fill="#11151c" stroke="#1e2a30"/>
+<circle cx="567" cy="295" r="3.5" fill="#00ff41" class="dotp"/>
+<text x="579" y="300" class="chip">Haitian Creole</text>
+</g>
+</svg>
