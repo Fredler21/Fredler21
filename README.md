@@ -9,15 +9,17 @@
 <a href="https://github.com/Fredler21"><img src="https://img.shields.io/badge/GitHub-Follow-00FF41?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" /></a>
 <img src="https://komarev.com/ghpvc/?username=Fredler21&style=for-the-badge&color=00ff41&label=PROFILE+VIEWS" />
 
-📍 Miami, FL &nbsp;·&nbsp; 📱 (754) 276-8676 &nbsp;·&nbsp; 🎓 B.S. Cybersecurity @ Miami Dade College
+<br/><br/>
 
-<br/>
+<b><a href="#about">About</a> &nbsp;·&nbsp; <a href="#arsenal">Arsenal</a> &nbsp;·&nbsp; <a href="#experience">Experience</a> &nbsp;·&nbsp; <a href="#projects">Projects</a> &nbsp;·&nbsp; <a href="#stats">Stats</a> &nbsp;·&nbsp; <a href="#education">Education</a> &nbsp;·&nbsp; <a href="#contact">Contact</a></b>
+
+<br/><br/>
 
 <img src="https://raw.githubusercontent.com/Fredler21/Fredler21/main/assets/idcard.svg" width="760" alt="Operator ID card" />
 
 </div>
 
----
+<a name="about"></a>
 
 ## 🛡️ About Me
 
@@ -37,7 +39,7 @@ down Firebase rules, and scan networks for the holes attackers hope you missed.
 - 🛡️ Cybersentinels club member · **Blue Team**, MDC Mini-Hackathon (03/2025)
 - 🏆 Academic Excellence Award, 6 consecutive terms
 
----
+<a name="arsenal"></a>
 
 ## ⚙️ Arsenal
 
@@ -45,25 +47,25 @@ down Firebase rules, and scan networks for the holes attackers hope you missed.
 
 <img src="https://img.shields.io/badge/skills-24-red.svg" /> <img src="https://img.shields.io/badge/gpa-3.90-blue.svg" /> <img src="https://img.shields.io/badge/projects-2-orange.svg" /> <img src="https://img.shields.io/github/stars/Fredler21?style=social" />
 
-**Security & Analysis**
+### Security & Analysis
 
-<img src="https://img.shields.io/badge/security-Nmap-brightgreen.svg" /> <img src="https://img.shields.io/badge/security-Nikto-brightgreen.svg" /> <img src="https://img.shields.io/badge/security-Ethical%20Hacking-brightgreen.svg" /> <img src="https://img.shields.io/badge/security-Incident%20Response-brightgreen.svg" /> <img src="https://img.shields.io/badge/security-Threat%20Analysis-brightgreen.svg" /> <img src="https://img.shields.io/badge/security-Network%20Security-brightgreen.svg" /> <img src="https://img.shields.io/badge/security-Data%20Encryption-brightgreen.svg" /> <img src="https://img.shields.io/badge/security-Firebase%20Rules-brightgreen.svg" />
+<img src="https://img.shields.io/badge/Nmap-2ea043.svg" /> <img src="https://img.shields.io/badge/Nikto-2ea043.svg" /> <img src="https://img.shields.io/badge/Ethical%20Hacking-2ea043.svg" /> <img src="https://img.shields.io/badge/Incident%20Response-2ea043.svg" /> <img src="https://img.shields.io/badge/Threat%20Analysis-2ea043.svg" /> <img src="https://img.shields.io/badge/Network%20Security-2ea043.svg" /> <img src="https://img.shields.io/badge/Data%20Encryption-2ea043.svg" /> <img src="https://img.shields.io/badge/Firebase%20Security%20Rules-2ea043.svg" />
 
-**Technologies & Tools**
+### Technologies & Tools
 
-<img src="https://img.shields.io/badge/tool-Python-blue.svg" /> <img src="https://img.shields.io/badge/tool-Linux-blue.svg" /> <img src="https://img.shields.io/badge/tool-Bash-blue.svg" /> <img src="https://img.shields.io/badge/tool-Firebase-blue.svg" /> <img src="https://img.shields.io/badge/tool-Firestore-blue.svg" /> <img src="https://img.shields.io/badge/tool-Next.js-blue.svg" /> <img src="https://img.shields.io/badge/tool-Vercel-blue.svg" /> <img src="https://img.shields.io/badge/tool-SEO-blue.svg" /> <img src="https://img.shields.io/badge/tool-Browser%20DevTools-blue.svg" /> <img src="https://img.shields.io/badge/tool-Microsoft%20Office-blue.svg" />
+<img src="https://img.shields.io/badge/Python-1f6feb.svg" /> <img src="https://img.shields.io/badge/Linux-1f6feb.svg" /> <img src="https://img.shields.io/badge/Bash-1f6feb.svg" /> <img src="https://img.shields.io/badge/Firebase-1f6feb.svg" /> <img src="https://img.shields.io/badge/Firestore-1f6feb.svg" /> <img src="https://img.shields.io/badge/Next.js-1f6feb.svg" /> <img src="https://img.shields.io/badge/Vercel-1f6feb.svg" /> <img src="https://img.shields.io/badge/SEO-1f6feb.svg" /> <img src="https://img.shields.io/badge/Browser%20DevTools-1f6feb.svg" /> <img src="https://img.shields.io/badge/Microsoft%20Office-1f6feb.svg" />
 
-**AI Tools**
+### AI Tools
 
-<img src="https://img.shields.io/badge/ai-Claude-orange.svg" /> <img src="https://img.shields.io/badge/ai-Claude%20Code-orange.svg" /> <img src="https://img.shields.io/badge/ai-Gemini%20API-orange.svg" />
+<img src="https://img.shields.io/badge/Claude-D97757.svg" /> <img src="https://img.shields.io/badge/Claude%20Code-D97757.svg" /> <img src="https://img.shields.io/badge/Gemini%20API-D97757.svg" />
 
-**Languages**
+### Languages
 
-<img src="https://img.shields.io/badge/lang-English-yellow.svg" /> <img src="https://img.shields.io/badge/lang-French-yellow.svg" /> <img src="https://img.shields.io/badge/lang-Haitian%20Creole-yellow.svg" />
+<img src="https://img.shields.io/badge/English-6e7681.svg" /> <img src="https://img.shields.io/badge/French-6e7681.svg" /> <img src="https://img.shields.io/badge/Haitian%20Creole-6e7681.svg" />
 
 </div>
 
----
+<a name="experience"></a>
 
 ## 💼 Experience
 
@@ -80,7 +82,7 @@ down Firebase rules, and scan networks for the holes attackers hope you missed.
 - Served as an analyst on Mastercard's Security Team (job simulation)
 - Identified and reported phishing threats; designed targeted security training for at-risk teams
 
----
+<a name="projects"></a>
 
 ## 🚀 Featured Projects
 
@@ -90,6 +92,8 @@ down Firebase rules, and scan networks for the holes attackers hope you missed.
 
 ### 🍯 [BulletProof Sentinel](https://github.com/Fredler21/BulletProof-Sentinel)
 **Private Honeypot & Threat Monitoring Platform** · `01/2026`
+
+<img src="https://img.shields.io/badge/Firebase-1f6feb.svg" /> <img src="https://img.shields.io/badge/Firestore-1f6feb.svg" /> <img src="https://img.shields.io/badge/Security%20Rules-2ea043.svg" /> <img src="https://img.shields.io/badge/Honeypot-2ea043.svg" />
 
 Real-time attack detection platform using decoy admin logins, fake WordPress pages, and bait API endpoints.
 
@@ -105,6 +109,8 @@ Real-time attack detection platform using decoy admin logins, fake WordPress pag
 ### 🧹 [TryCleaningHacks](https://trycleaninghacks.com)
 **Website Creator & Administrator** · [source](https://github.com/Fredler21/New-Cleaning-Apps-) · `03/2026`
 
+<img src="https://img.shields.io/badge/Next.js-1f6feb.svg" /> <img src="https://img.shields.io/badge/Vercel-1f6feb.svg" /> <img src="https://img.shields.io/badge/SEO-1f6feb.svg" /> <img src="https://img.shields.io/badge/Gemini%20API-D97757.svg" />
+
 Next.js content platform on Vercel, built and run end to end: development, SEO, publishing, and security.
 
 - 📈 Grew to **1,000+ monthly views** through SEO, sitemaps, and Pinterest campaigns
@@ -115,7 +121,7 @@ Next.js content platform on Vercel, built and run end to end: development, SEO, 
 </tr>
 </table>
 
----
+<a name="stats"></a>
 
 ## 📊 GitHub Stats
 
@@ -142,7 +148,7 @@ Next.js content platform on Vercel, built and run end to end: development, SEO, 
 
 </div>
 
----
+<a name="education"></a>
 
 ## 🎓 Education
 
@@ -162,9 +168,23 @@ Cybersecurity Fundamentals · Networking Technologies · Introduction to Secure 
 
 </details>
 
----
+<a name="contact"></a>
+
+## 🤝 Get In Touch
 
 <div align="center">
+
+**Open to internships and junior security roles.** If you are building something worth protecting, let's talk.
+
+<br/>
+
+<a href="mailto:fredlerpierrelouis21@gmail.com"><img src="https://img.shields.io/badge/📨%20Email%20Me-fredlerpierrelouis21@gmail.com-00FF41?style=for-the-badge&labelColor=0d1117" /></a>
+<br/>
+<a href="https://linkedin.com/in/fredlergraciapierre-louis"><img src="https://img.shields.io/badge/💼%20LinkedIn-fredlergraciapierre--louis-00FF41?style=for-the-badge&labelColor=0d1117" /></a>
+
+<br/>
+
+📍 Miami, FL &nbsp;·&nbsp; 📱 (754) 276-8676
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=120&section=footer" width="100%"/>
 
