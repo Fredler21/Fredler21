@@ -1,89 +1,138 @@
-# Fredler Gracia Pierre-Louis 👋
+<div align="center">
 
-Dedicated cybersecurity major with practical experience in administrative coordination and partnership support (remote), and known for strong problem-solving skills, with a solid foundation in cybersecurity principles and hands-on experience managing security protocols and sensitive information.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=180&section=header&text=Fredler%20Gracia%20Pierre-Louis&fontSize=38&fontColor=00ff41&animation=fadeIn&fontAlignY=35&desc=Securing%20systems%2C%20one%20layer%20at%20a%20time&descAlignY=58&descSize=16" width="100%"/>
 
-📍 Miami, FL · 📧 fredlerpierrelouis21@gmail.com · 📱 (754) 276-8676 · [LinkedIn](https://linkedin.com/in/fredlergraciapierre-louis)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=Cybersecurity+Analyst+%F0%9F%9B%A1%EF%B8%8F;Ethical+Hacker+%7C+Threat+Hunter;Network+Defense+%26+Incident+Response;Building+Honeypots+%26+Breaking+Assumptions" alt="Typing SVG" />
 
----
+<br/>
 
-## 🎓 Education
+📍 Miami, FL &nbsp;·&nbsp; 📱 (754) 276-8676 &nbsp;·&nbsp; 🎓 B.S. Cybersecurity @ Miami Dade College &nbsp;·&nbsp; 💬 EN · FR · HT
 
-**Miami Dade College**
+<br/>
 
-- **Associate of Science, Cybersecurity** (2024–2026) — GPA: 3.90/4.0
-- **College Credit Certificate:** Cybersecurity Analyst & Network Security — GPA: 3.90/4.0
-- **Bachelor of Science, Cybersecurity** (In Progress) — Expected Graduation: 05/2028
+<a href="https://linkedin.com/in/fredlergraciapierre-louis"><img src="https://img.shields.io/badge/LinkedIn-Connect-00FF41?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>
+<a href="mailto:fredlerpierrelouis21@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-00FF41?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
+<a href="https://github.com/Fredler21"><img src="https://img.shields.io/badge/GitHub-Follow-00FF41?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" /></a>
 
-**Relevant Courses:** Cybersecurity Fundamentals, Networking Technologies, Introduction to Secure Scripting, Introduction to Computer Technology and Applications, Network Defense and Countermeasures, Linux+, Cybersecurity Analysis.
-
-**Awards:** Academic Excellence (4.00) in Spring 2024, Summer 2024, Fall 2024, Spring 2025, Summer 2025, Spring 2026.
+</div>
 
 ---
 
-## ⚙️ Skills
+## 🛡️ About Me
 
-**Technologies & Tools:** Python, Linux, Scripting, Firebase, Microsoft Office.
+```text
+> whoami
+Cybersecurity major (GPA 3.90) with hands-on experience securing live backend
+systems for 200+ users. I build honeypots, hunt threats, lock down Firebase
+rules, and scan networks for the holes attackers hope you missed.
 
-**Cybersecurity:** Network Security, Cyber Threat Analysis, Data Protection & Encryption, Cybersecurity Principles, Ethical Hacking, Incident Response, Communication Security.
+> cat philosophy.txt
+"Zero Trust: continuous verification and strict access control at every layer."
+```
 
-**Soft Skills:** Communication, Problem-solving, Teamwork, Multitasking, Time-Management.
+- 🔭 Currently: **Technology & Cybersecurity Lead @ EdLight Initiative**
+- 🎓 B.S. Cybersecurity (exp. 2028) · A.S. Cybersecurity + CCC Cybersecurity Analyst & Network Security — **GPA 3.90/4.0**
+- 🍯 Built a honeypot platform that **trapped 10+ attackers in its first 2 weeks**
+- 🏆 Academic Excellence Award — 6 consecutive terms
 
-**Languages:** English, French, Haitian Creole.
+---
+
+## ⚙️ Arsenal
+
+### Security & Analysis
+<p>
+<img src="https://img.shields.io/badge/Nmap-Network%20Scanning-00FF41?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Nikto-Web%20Vuln%20Scanning-00FF41?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Ethical%20Hacking-%E2%9A%94%EF%B8%8F-00FF41?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Incident%20Response-%F0%9F%9A%A8-00FF41?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Threat%20Analysis-%F0%9F%94%8D-00FF41?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Encryption%20%26%20Data%20Protection-%F0%9F%94%90-00FF41?style=for-the-badge&labelColor=0d1117" />
+</p>
+
+### Technologies & Tools
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" />
+<img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Wireshark%20%2F%20DevTools-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" />
+</p>
 
 ---
 
 ## 💼 Experience
 
-### EdLight Initiative — *Technology & Cybersecurity Lead*
-**08/2023 – Present**
+### 🔐 EdLight Initiative — *Technology & Cybersecurity Lead* `08/2023 – Present`
+- Manage and secure backend systems supporting **200+ users** (code.edlight.org)
+- Author and maintain **Firebase security rules** controlling data access
+- Run **Nmap** port/service scans and **Nikto** web vulnerability scans
+- Monitor API traffic and HTTP/HTTPS flows; test endpoints against basic attack scenarios
+- Resolve login, authentication, and access-control issues; report vulnerabilities with fixes
 
-- Managed and secured backend systems supporting 200+ users on platforms including [code.edlight.org](https://code.edlight.org)
-- Created and updated Firebase security rules to control data access (read/write permissions)
-- Tested and monitored API requests and responses using browser DevTools
-- Reviewed network traffic (HTTP/HTTPS) to understand how data flows through the system
-- Performed security scanning using Nmap to identify open ports and exposed services
-- Conducted web vulnerability scanning using Nikto to detect potential weaknesses
-- Tested basic attack scenarios (input testing, endpoint checks) to evaluate system security
-- Fixed login, authentication, and user access issues
-- Identified and reported vulnerabilities and suggested improvements
-
-### Mastercard — *Mastercard Security Virtual Experience Program*
-**10/2024**
-
-- Completed a job simulation where served as an analyst on Mastercard's Security Team
-- Helped identify and report security threats such as phishing
-- Analyzed and identified which areas of the business needed more robust security training and implemented training courses and procedures for those teams
+### 💳 Mastercard — *Security Virtual Experience Program* `10/2024`
+- Served as an analyst on Mastercard's Security Team (job simulation)
+- Identified and reported phishing threats; designed targeted security training for at-risk teams
 
 ---
 
-## 🚀 Technical Projects
+## 🚀 Featured Project
 
-### Private Honeypot & Threat Monitoring Platform
-[github.com/Fredler21/BulletProof-Sentinel](https://github.com/Fredler21/BulletProof-Sentinel) · **01/2026**
+<table>
+<tr>
+<td>
 
-- Developed a private honeypot and threat monitoring platform for real-time attack detection
-- Created fake admin logins, fake WordPress login pages, and fake API endpoints to attract attackers
-- Trapped more than 10 attackers within the first 2 weeks of deployment
-- Integrated automated IP blocking for repeated malicious activity, including VPN and proxy attempts
-- Strengthened authentication, access control, and backend security systems
-- Used Firebase and Firestore for backend infrastructure, implementing custom security rules to restrict platform access to authorized email accounts only
+### 🍯 [BulletProof Sentinel](https://github.com/Fredler21/BulletProof-Sentinel)
+**Private Honeypot & Threat Monitoring Platform** · `01/2026`
 
----
+Real-time attack detection platform using decoy admin logins, fake WordPress pages, and bait API endpoints.
 
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-blue)
-![Privacy](https://img.shields.io/badge/Privacy-red)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=white)
-![Multilingual](https://img.shields.io/badge/Languages-EN%20%7C%20FR%20%7C%20HT-blue)
+- 🎯 Trapped **10+ attackers** within the first 2 weeks of deployment
+- 🚫 Automated IP blocking for repeat offenders — including VPN & proxy evasion attempts
+- 🔐 Firebase/Firestore backend with custom security rules restricting access to authorized accounts only
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📫 Connect
+## 📊 GitHub Stats
 
-GitHub: https://github.com/Fredler21  
-LinkedIn: https://linkedin.com/in/fredlergraciapierre-louis  
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Fredler21&show_icons=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&border_color=00ff41&rank_icon=github" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fredler21&layout=compact&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&border_color=00ff41" height="165" />
+
+<img src="https://streak-stats.demolab.com?user=Fredler21&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&border=00ff41" height="165" />
+
+</div>
 
 ---
 
-> “Zero Trust: continuous verification and strict access control at every layer.”
+## 🎓 Education
+
+| Degree | Institution | Timeline | GPA |
+|---|---|---|---|
+| **B.S. Cybersecurity** | Miami Dade College | Expected 05/2028 | In progress |
+| **A.S. Cybersecurity** | Miami Dade College | 2024 – 2026 | 3.90 / 4.0 |
+| **CCC — Cybersecurity Analyst & Network Security** | Miami Dade College | 2024 – 2026 | 3.90 / 4.0 |
+
+<details>
+<summary>📚 Relevant Coursework</summary>
+<br/>
+
+Cybersecurity Fundamentals · Networking Technologies · Introduction to Secure Scripting · Network Defense and Countermeasures · Linux+ · Cybersecurity Analysis · Introduction to Computer Technology and Applications
+
+</details>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=120&section=footer" width="100%"/>
+
+**`Zero Trust: continuous verification and strict access control at every layer.`**
+
+</div>
