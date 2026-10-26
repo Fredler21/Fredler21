@@ -4,9 +4,9 @@
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/fredlergraciapierre-louis"><img src="https://img.shields.io/badge/LinkedIn-Connect-00FF41?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>
-<a href="mailto:fredlerpierrelouis21@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-00FF41?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
-<a href="https://github.com/Fredler21"><img src="https://img.shields.io/badge/GitHub-Follow-00FF41?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" /></a>
+<a href="https://linkedin.com/in/fredlergraciapierre-louis"><img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-00FF41?style=for-the-badge&labelColor=0d1117" /></a>
+<a href="mailto:fredlerpierrelouis21@gmail.com"><img src="https://img.shields.io/badge/📨%20Email-Message%20Me-00FF41?style=for-the-badge&labelColor=0d1117" /></a>
+<a href="https://github.com/Fredler21"><img src="https://img.shields.io/badge/⭐%20GitHub-Follow-00FF41?style=for-the-badge&labelColor=0d1117" /></a>
 <img src="https://komarev.com/ghpvc/?username=Fredler21&style=for-the-badge&color=00ff41&label=PROFILE+VIEWS" />
 
 <br/><br/>
