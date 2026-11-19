@@ -202,7 +202,6 @@ put("cta.svg", cta());
 put("cta-mobile.svg", ctaMobile());
 put("btn-email.svg", button("Email me", { primary: true }));
 put("btn-linkedin.svg", button("LinkedIn", { arrow: "ne" }));
-put("btn-work.svg", button("See my work", { arrow: "down" }));
 for (const label of CHIPS.security) put(`chips/${slug(label)}.svg`, chip(label, { dot: true }));
 for (const [label, icon] of CHIPS.build) put(`chips/${slug(label)}.svg`, chip(label, { icon }));
 console.log(out.join("\n"));
