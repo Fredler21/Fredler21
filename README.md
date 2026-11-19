@@ -61,27 +61,27 @@ Click any card to open the project.
 **Security**
 
 <p>
-<img src="https://raw.githubusercontent.com/Fredler21/Fredler21/main/assets/chips/nmap.svg" height="28" alt="Nmap">
-<img src="https://raw.githubusercontent.com/Fredler21/Fredler21/main/assets/chips/nikto.svg" height="28" alt="Nikto">
-<img src="https://raw.githubusercontent.com/Fredler21/Fredler21/main/assets/chips/honeypots.svg" height="28" alt="Honeypots">
-<img src="https://raw.githubusercontent.com/Fredler21/Fredler21/main/assets/chips/incident-response.svg" height="28" alt="Incident Response">
-<img src="https://raw.githubusercontent.com/Fredler21/Fredler21/main/assets/chips/threat-analysis.svg" height="28" alt="Threat Analysis">
+<picture><img src="https://raw.githubusercontent.com/Fredler21/Fredler21/main/assets/chips/nmap.svg" height="28" alt="Nmap"></picture>
+<picture><img src="https://raw.githubusercontent.com/Fredler21/Fredler21/main/assets/chips/nikto.svg" height="28" alt="Nikto"></picture>
+<picture><img src="https://raw.githubusercontent.com/Fredler21/Fredler21/main/assets/chips/honeypots.svg" height="28" alt="Honeypots"></picture>
+<picture><img src="https://raw.githubusercontent.com/Fredler21/Fredler21/main/assets/chips/incident-response.svg" height="28" alt="Incident Response"></picture>
+<picture><img src="https://raw.githubusercontent.com/Fredler21/Fredler21/main/assets/chips/threat-analysis.svg" height="28" alt="Threat Analysis"></picture>
 <br>
-<img src="https://raw.githubusercontent.com/Fredler21/Fredler21/main/assets/chips/network-security.svg" height="28" alt="Network Security">
-<img src="https://raw.githubusercontent.com/Fredler21/Fredler21/main/assets/chips/firebase-security-rules.svg" height="28" alt="Firebase Security Rules">
+<picture><img src="https://raw.githubusercontent.com/Fredler21/Fredler21/main/assets/chips/network-security.svg" height="28" alt="Network Security"></picture>
+<picture><img src="https://raw.githubusercontent.com/Fredler21/Fredler21/main/assets/chips/firebase-security-rules.svg" height="28" alt="Firebase Security Rules"></picture>
 </p>
 
 **Build**
 
 <p>
-<img src="https://raw.githubusercontent.com/Fredler21/Fredler21/main/assets/chips/python.svg" height="28" alt="Python">
-<img src="https://raw.githubusercontent.com/Fredler21/Fredler21/main/assets/chips/typescript.svg" height="28" alt="TypeScript">
-<img src="https://raw.githubusercontent.com/Fredler21/Fredler21/main/assets/chips/bash.svg" height="28" alt="Bash">
-<img src="https://raw.githubusercontent.com/Fredler21/Fredler21/main/assets/chips/linux.svg" height="28" alt="Linux">
-<img src="https://raw.githubusercontent.com/Fredler21/Fredler21/main/assets/chips/next-js.svg" height="28" alt="Next.js">
-<img src="https://raw.githubusercontent.com/Fredler21/Fredler21/main/assets/chips/firebase.svg" height="28" alt="Firebase">
-<img src="https://raw.githubusercontent.com/Fredler21/Fredler21/main/assets/chips/firestore.svg" height="28" alt="Firestore">
-<img src="https://raw.githubusercontent.com/Fredler21/Fredler21/main/assets/chips/vercel.svg" height="28" alt="Vercel">
+<picture><img src="https://raw.githubusercontent.com/Fredler21/Fredler21/main/assets/chips/python.svg" height="28" alt="Python"></picture>
+<picture><img src="https://raw.githubusercontent.com/Fredler21/Fredler21/main/assets/chips/typescript.svg" height="28" alt="TypeScript"></picture>
+<picture><img src="https://raw.githubusercontent.com/Fredler21/Fredler21/main/assets/chips/bash.svg" height="28" alt="Bash"></picture>
+<picture><img src="https://raw.githubusercontent.com/Fredler21/Fredler21/main/assets/chips/linux.svg" height="28" alt="Linux"></picture>
+<picture><img src="https://raw.githubusercontent.com/Fredler21/Fredler21/main/assets/chips/next-js.svg" height="28" alt="Next.js"></picture>
+<picture><img src="https://raw.githubusercontent.com/Fredler21/Fredler21/main/assets/chips/firebase.svg" height="28" alt="Firebase"></picture>
+<picture><img src="https://raw.githubusercontent.com/Fredler21/Fredler21/main/assets/chips/firestore.svg" height="28" alt="Firestore"></picture>
+<picture><img src="https://raw.githubusercontent.com/Fredler21/Fredler21/main/assets/chips/vercel.svg" height="28" alt="Vercel"></picture>
 </p>
 
 **Spoken languages:** English · French · Haitian Creole
