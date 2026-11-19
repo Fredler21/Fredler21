@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate profile images
 
 on:
   schedule:
@@ -16,13 +16,38 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
+      - name: Check out
+        uses: actions/checkout@v4
+
       - name: Generate snake animation
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Fredler21
           outputs: |
-            dist/github-snake.svg?palette=github-dark
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=#00ff41&color_dots=#161b22,#01311f,#034525,#00b53f,#00ff41
+            dist/github-snake.svg?palette=github-light&color_snake=#0d1117&color_dots=#ebedf0,#b6e8c8,#6fd49b,#1aab5e,#0b6b3a
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#00e676&color_dots=#161b22,#0b3d25,#0f6b3c,#1aab5e,#00e676
+
+      # If today's build fails, yesterday's cards stay online.
+      - name: Keep the previous activity cards as a fallback
+        run: |
+          mkdir -p dist
+          for f in activity.svg activity-mobile.svg; do
+            curl -fsSL --remove-on-error "https://raw.githubusercontent.com/${{ github.repository }}/output/$f" -o "dist/$f" || true
+          done
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Generate activity cards
+        continue-on-error: true
+        working-directory: .github/tools
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          npm ci --omit=dev --ignore-scripts --no-audit --no-fund
+          node build-activity.mjs ../../dist
 
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
