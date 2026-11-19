@@ -1,193 +1,155 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Fredler21/Fredler21/main/assets/header.svg" width="100%" alt="Fredler Gracia Pierre-Louis, Cybersecurity Analyst" />
+<img src="https://raw.githubusercontent.com/Fredler21/Fredler21/main/assets/header.svg" width="100%" alt="Fredler Gracia Pierre-Louis, Cybersecurity" />
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/fredlergraciapierre-louis"><img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-00FF41?style=for-the-badge&labelColor=0d1117" /></a>
-<a href="mailto:fredlerpierrelouis21@gmail.com"><img src="https://img.shields.io/badge/📨%20Email-Message%20Me-00FF41?style=for-the-badge&labelColor=0d1117" /></a>
-<a href="https://github.com/Fredler21"><img src="https://img.shields.io/badge/⭐%20GitHub-Follow-00FF41?style=for-the-badge&labelColor=0d1117" /></a>
-<img src="https://komarev.com/ghpvc/?username=Fredler21&style=for-the-badge&color=00ff41&label=PROFILE+VIEWS" />
-
-<br/><br/>
-
-<b><a href="#about">About</a> &nbsp;·&nbsp; <a href="#arsenal">Arsenal</a> &nbsp;·&nbsp; <a href="#experience">Experience</a> &nbsp;·&nbsp; <a href="#projects">Projects</a> &nbsp;·&nbsp; <a href="#stats">Stats</a> &nbsp;·&nbsp; <a href="#education">Education</a> &nbsp;·&nbsp; <a href="#contact">Contact</a></b>
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/Fredler21/Fredler21/main/assets/idcard.svg" width="760" alt="Operator ID card" />
+<a href="https://linkedin.com/in/fredlergraciapierre-louis"><img src="https://img.shields.io/badge/LinkedIn-Connect-00FF41?style=for-the-badge&labelColor=0d1117" alt="LinkedIn" /></a>
+<a href="mailto:fredlerpierrelouis21@gmail.com"><img src="https://img.shields.io/badge/Email-Message%20me-00FF41?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" /></a>
+<a href="https://trycleaninghacks.com"><img src="https://img.shields.io/badge/Live%20site-trycleaninghacks.com-00FF41?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="TryCleaningHacks" /></a>
 
 </div>
 
-<a name="about"></a>
+## Hi, I'm Fredler
 
-## 🛡️ About Me
+I'm a cybersecurity student at Miami Dade College (GPA 3.90) and the Technology & Cybersecurity Lead at [EdLight Initiative](https://code.edlight.org), where I keep the backend for 200+ students running and locked down.
 
-```text
-> whoami
-Cybersecurity major (GPA 3.90) and Technology & Cybersecurity Lead securing
-live backend systems for 200+ users. I build honeypots, hunt threats, lock
-down Firebase rules, and scan networks for the holes attackers hope you missed.
+I learn security by building real things and then defending them. I write the Firebase rules, I run the Nmap and Nikto scans, and I report what I find with a fix. I built my own honeypot because I wanted to watch real attackers instead of only reading about them. It caught more than 10 of them in its first two weeks.
 
-> cat philosophy.txt
-"Zero Trust: continuous verification and strict access control at every layer."
-```
+**I'm looking for a security internship or a junior security role.** Miami, FL.
 
-- 🔭 Currently: **Technology & Cybersecurity Lead @ EdLight Initiative**
-- 🎓 B.S. Cybersecurity (exp. 2028) · A.S. Cybersecurity + CCC in Cybersecurity Analyst & Network Security · **GPA 3.90/4.0**
-- 🍯 Built a honeypot platform that **trapped 10+ attackers in its first 2 weeks**
-- 🛡️ Cybersentinels club member · **Blue Team**, MDC Mini-Hackathon (03/2025)
-- 🏆 Academic Excellence Award, 6 consecutive terms
-
-<a name="arsenal"></a>
-
-## ⚙️ Arsenal
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/skills-24-red.svg" /> <img src="https://img.shields.io/badge/gpa-3.90-blue.svg" /> <img src="https://img.shields.io/badge/projects-2-orange.svg" /> <img src="https://img.shields.io/github/stars/Fredler21?style=social" />
-
-### Security & Analysis
-
-<img src="https://img.shields.io/badge/Nmap-2ea043.svg" /> <img src="https://img.shields.io/badge/Nikto-2ea043.svg" /> <img src="https://img.shields.io/badge/Ethical%20Hacking-2ea043.svg" /> <img src="https://img.shields.io/badge/Incident%20Response-2ea043.svg" /> <img src="https://img.shields.io/badge/Threat%20Analysis-2ea043.svg" /> <img src="https://img.shields.io/badge/Network%20Security-2ea043.svg" /> <img src="https://img.shields.io/badge/Data%20Encryption-2ea043.svg" /> <img src="https://img.shields.io/badge/Firebase%20Security%20Rules-2ea043.svg" />
-
-### Technologies & Tools
-
-<img src="https://img.shields.io/badge/Python-1f6feb.svg" /> <img src="https://img.shields.io/badge/Linux-1f6feb.svg" /> <img src="https://img.shields.io/badge/Bash-1f6feb.svg" /> <img src="https://img.shields.io/badge/Firebase-1f6feb.svg" /> <img src="https://img.shields.io/badge/Firestore-1f6feb.svg" /> <img src="https://img.shields.io/badge/Next.js-1f6feb.svg" /> <img src="https://img.shields.io/badge/Vercel-1f6feb.svg" /> <img src="https://img.shields.io/badge/SEO-1f6feb.svg" /> <img src="https://img.shields.io/badge/Browser%20DevTools-1f6feb.svg" /> <img src="https://img.shields.io/badge/Microsoft%20Office-1f6feb.svg" />
-
-### AI Tools
-
-<img src="https://img.shields.io/badge/Claude-D97757.svg" /> <img src="https://img.shields.io/badge/Claude%20Code-D97757.svg" /> <img src="https://img.shields.io/badge/Gemini%20API-D97757.svg" />
-
-### Languages
-
-<img src="https://img.shields.io/badge/English-6e7681.svg" /> <img src="https://img.shields.io/badge/French-6e7681.svg" /> <img src="https://img.shields.io/badge/Haitian%20Creole-6e7681.svg" />
-
-</div>
-
-<a name="experience"></a>
-
-## 💼 Experience
-
-### 🔐 EdLight Initiative · *Technology & Cybersecurity Lead* `08/2023 to Present`
-- Manage and secure backend systems supporting **200+ users** (code.edlight.org)
-- Lead meetings with EdLight students and track their progress through the organization's programs
-- Provide **IT help desk support for EdLight Scholars**, a program with 300 Coursera and 300 DataCamp licenses
-- Resolve student login, account access, and license issues so scholars can complete their certificates
-- Author and maintain **Firebase security rules** controlling read and write access to platform data
-- Run **Nmap** port/service scans and **Nikto** web vulnerability scans; test attack scenarios on endpoints
-- Identify and report vulnerabilities with suggested fixes to strengthen the platform
-
-### 💳 Mastercard · *Security Virtual Experience Program* `10/2024`
-- Served as an analyst on Mastercard's Security Team (job simulation)
-- Identified and reported phishing threats; designed targeted security training for at-risk teams
-
-<a name="projects"></a>
-
-## 🚀 Featured Projects
+## What I've built
 
 <table>
 <tr>
-<td>
+<td width="50%" valign="top">
 
-### 🍯 [BulletProof Sentinel](https://github.com/Fredler21/BulletProof-Sentinel)
-**Private Honeypot & Threat Monitoring Platform** · `01/2026`
+### [BulletProof Sentinel](https://github.com/Fredler21/BulletProof-Sentinel)
 
-<img src="https://img.shields.io/badge/Firebase-1f6feb.svg" /> <img src="https://img.shields.io/badge/Firestore-1f6feb.svg" /> <img src="https://img.shields.io/badge/Security%20Rules-2ea043.svg" /> <img src="https://img.shields.io/badge/Honeypot-2ea043.svg" />
+A honeypot and threat monitoring platform I designed from scratch. Decoy admin logins, fake WordPress pages, and bait API endpoints record what attackers do.
 
-Real-time attack detection platform using decoy admin logins, fake WordPress pages, and bait API endpoints.
+- Trapped **10+ attackers** in its first 2 weeks
+- Blocks repeat offenders by IP, including VPN and proxy attempts
+- Firestore rules keep access to authorized accounts only
 
-- 🎯 Trapped **10+ attackers** within the first 2 weeks of deployment
-- 🚫 Automated IP blocking for repeat offenders, including VPN & proxy evasion attempts
-- 🔐 Firebase/Firestore backend with custom security rules restricting access to authorized accounts only
+<img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" /> <img src="https://img.shields.io/badge/Firebase-0d1117?style=flat-square&logo=firebase&logoColor=FFCA28" alt="Firebase" />
+
+[Live demo](https://bullet-proof-sentinel-ai.vercel.app) · [Code](https://github.com/Fredler21/BulletProof-Sentinel)
+
+</td>
+<td width="50%" valign="top">
+
+### [FreddySec](https://github.com/Fredler21/FreddySec)
+
+A security copilot for the terminal. It runs the scan, reads the raw output, and explains what matters in plain language.
+
+- Works with Nmap, Nikto, OpenSSL, auth logs, and web server logs
+- Maps findings to MITRE ATT&CK and pulls out indicators of compromise
+- Ranks issues by severity and gives the commands to fix and verify
+
+<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB" alt="Python" /> <img src="https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=white" alt="Linux" /> <img src="https://img.shields.io/badge/Kali-0d1117?style=flat-square&logo=kalilinux&logoColor=557C94" alt="Kali Linux" />
+
+[Code](https://github.com/Fredler21/FreddySec)
 
 </td>
 </tr>
 <tr>
-<td>
+<td width="50%" valign="top">
 
-### 🧹 [TryCleaningHacks](https://trycleaninghacks.com)
-**Website Creator & Administrator** · [source](https://github.com/Fredler21/New-Cleaning-Apps-) · `03/2026`
+### [EdLight Security Training](https://github.com/Fredler21/Security-Training)
 
-<img src="https://img.shields.io/badge/Next.js-1f6feb.svg" /> <img src="https://img.shields.io/badge/Vercel-1f6feb.svg" /> <img src="https://img.shields.io/badge/SEO-1f6feb.svg" /> <img src="https://img.shields.io/badge/Gemini%20API-D97757.svg" />
+A security awareness training site for EdLight staff, with lessons and quizzes made for people who are not technical.
 
-Next.js content platform on Vercel, built and run end to end: development, SEO, publishing, and security.
+- Version 1 is live: training modules and the quiz system
+- Next: Google login, progress tracking, and an admin dashboard
 
-- 📈 Grew to **1,000+ monthly views** through SEO, sitemaps, and Pinterest campaigns
-- 🔒 Manage domain, DNS, and HTTPS; review traffic for bots and patch dependencies to close gaps
-- 🤖 Integrated **Firebase and the Gemini API**, storing keys in environment variables to protect secrets
+<img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+
+[Live site](https://edight-security-training.vercel.app) · [Code](https://github.com/Fredler21/Security-Training)
+
+</td>
+<td width="50%" valign="top">
+
+### [TryCleaningHacks](https://trycleaninghacks.com)
+
+A content site I built and run end to end: code, SEO, publishing, and security.
+
+- Grew to **1,000+ monthly views** through SEO, sitemaps, and Pinterest
+- I manage the domain, DNS, and HTTPS, watch the traffic for bots, and patch dependencies
+- API keys are stored in environment variables to protect secrets
+
+<img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/Vercel-0d1117?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" /> <img src="https://img.shields.io/badge/Firebase-0d1117?style=flat-square&logo=firebase&logoColor=FFCA28" alt="Firebase" />
+
+[Live site](https://trycleaninghacks.com) · [Code](https://github.com/Fredler21/New-Cleaning-Apps-)
 
 </td>
 </tr>
 </table>
 
-<a name="stats"></a>
+**More:** [Prezidan Pa M](https://github.com/Fredler21/prezidan-pa-m), a neutral people's vote site for Haiti's 2027 election in Kreyòl, French, and English, with Firestore rules that enforce one vote per person · [DevicePeek](https://github.com/Fredler21/devicepeek), preview any site as an iPhone and a laptop side by side · [EdLight Backend System](https://github.com/Fredler21/Backend_System), users, authentication, and APIs in TypeScript.
 
-## 📊 GitHub Stats
+## What I'm working on now
+
+- Building [Prezidan Pa M](https://prezidan-pa-m.web.app) ahead of Haiti's 2027 election
+- Studying incident handling and response (EC-Council ECIH v3 coursework) for my B.S. in Cybersecurity
+- Taking EdLight Security Training from version 1 to real logins and progress tracking
+
+## Experience
+
+**Technology & Cybersecurity Lead · EdLight Initiative** · 08/2023 to present
+
+- Manage and secure the backend systems behind [code.edlight.org](https://code.edlight.org), used by 200+ students
+- Write and maintain the Firebase security rules that control who can read and write platform data
+- Run Nmap port and service scans and Nikto web scans, test attack scenarios on our endpoints, and report what I find with a suggested fix
+- Run the help desk for EdLight Scholars (300 Coursera and 300 DataCamp licenses): logins, account access, and license problems
+- Lead student meetings and track their progress through the programs
+
+## Skills
+
+**Security**
+
+<img src="https://img.shields.io/badge/Nmap-0d1117?style=flat-square" alt="Nmap" /> <img src="https://img.shields.io/badge/Nikto-0d1117?style=flat-square" alt="Nikto" /> <img src="https://img.shields.io/badge/Incident%20Response-0d1117?style=flat-square" alt="Incident Response" /> <img src="https://img.shields.io/badge/Threat%20Analysis-0d1117?style=flat-square" alt="Threat Analysis" /> <img src="https://img.shields.io/badge/Network%20Security-0d1117?style=flat-square" alt="Network Security" /> <img src="https://img.shields.io/badge/Firebase%20Security%20Rules-0d1117?style=flat-square&logo=firebase&logoColor=FFCA28" alt="Firebase Security Rules" /> <img src="https://img.shields.io/badge/Honeypots-0d1117?style=flat-square" alt="Honeypots" />
+
+**Build**
+
+<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB" alt="Python" /> <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" /> <img src="https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" /> <img src="https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=white" alt="Linux" /> <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/Firebase-0d1117?style=flat-square&logo=firebase&logoColor=FFCA28" alt="Firebase" /> <img src="https://img.shields.io/badge/Firestore-0d1117?style=flat-square&logo=firebase&logoColor=FFCA28" alt="Firestore" /> <img src="https://img.shields.io/badge/Vercel-0d1117?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+
+**Spoken languages:** English · French · Haitian Creole
+
+## Education
+
+| Degree | School | When | GPA |
+|---|---|---|---|
+| **B.S. Cybersecurity** | Miami Dade College | Expected 05/2028 | In progress |
+| **A.S. Cybersecurity** | Miami Dade College | 2024 to 2026 | 3.90 / 4.0 |
+| **CCC, Cybersecurity Analyst & Network Security** | Miami Dade College | 2024 to 2026 | 3.90 / 4.0 |
+
+- Academic Excellence Award, 6 terms in a row
+- Cybersentinels club · Blue Team at the MDC Mini-Hackathon (03/2025)
+- Mastercard Security job simulation (10/2024): identified and reported phishing threats and designed security training for at-risk teams
+
+## GitHub activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Fredler21&show_icons=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&border_color=00ff41&rank_icon=github" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fredler21&layout=compact&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&border_color=00ff41" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=Fredler21&show_icons=true&hide=stars,issues&hide_rank=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&border_color=30363d" height="150" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fredler21&layout=compact&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&border_color=30363d" height="150" alt="Top languages" />
 
-<img src="https://streak-stats.demolab.com?user=Fredler21&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&border=00ff41" height="165" />
-
-</div>
-
----
-
-## 🐍 Watch the Snake Hunt My Contributions
-
-<div align="center">
+<br/><br/>
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fredler21/Fredler21/output/github-snake-dark.svg" />
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fredler21/Fredler21/output/github-snake.svg" />
-<img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Fredler21/Fredler21/output/github-snake-dark.svg" />
+<img alt="Contribution graph animation" src="https://raw.githubusercontent.com/Fredler21/Fredler21/output/github-snake-dark.svg" />
 </picture>
 
 </div>
 
-<a name="education"></a>
+## Get in touch
 
-## 🎓 Education
+If you are hiring for a security internship or a junior security role, I'd like to hear from you. Email is the fastest way to reach me.
 
-| Degree | Institution | Timeline | GPA |
-|---|---|---|---|
-| **B.S. Cybersecurity** | Miami Dade College | Expected 05/2028 | In progress |
-| **A.S. Cybersecurity** | Miami Dade College | 2024 to 2026 | 3.90 / 4.0 |
-| **CCC in Cybersecurity Analyst & Network Security** | Miami Dade College | 2024 to 2026 | 3.90 / 4.0 |
+<a href="mailto:fredlerpierrelouis21@gmail.com"><img src="https://img.shields.io/badge/Email-fredlerpierrelouis21@gmail.com-00FF41?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" /></a>
+<a href="https://linkedin.com/in/fredlergraciapierre-louis"><img src="https://img.shields.io/badge/LinkedIn-fredlergraciapierre--louis-00FF41?style=for-the-badge&labelColor=0d1117" alt="LinkedIn" /></a>
 
-**Activities:** Cybersentinels club · Blue Team, MDC Mini-Hackathon (03/2025)
-
-<details>
-<summary>📚 Relevant Coursework</summary>
-<br/>
-
-Cybersecurity Fundamentals · Networking Technologies · Introduction to Secure Scripting · Network Defense and Countermeasures · Linux+ · Cybersecurity Analysis · Introduction to Computer Technology and Applications
-
-</details>
-
-<a name="contact"></a>
-
-## 🤝 Get In Touch
-
-<div align="center">
-
-**Open to internships and junior security roles.** If you are building something worth protecting, let's talk.
-
-<br/>
-
-<a href="mailto:fredlerpierrelouis21@gmail.com"><img src="https://img.shields.io/badge/📨%20Email%20Me-fredlerpierrelouis21@gmail.com-00FF41?style=for-the-badge&labelColor=0d1117" /></a>
-<br/>
-<a href="https://linkedin.com/in/fredlergraciapierre-louis"><img src="https://img.shields.io/badge/💼%20LinkedIn-fredlergraciapierre--louis-00FF41?style=for-the-badge&labelColor=0d1117" /></a>
-
-<br/>
-
-📍 Miami, FL &nbsp;·&nbsp; 📱 (754) 276-8676
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=120&section=footer" width="100%"/>
-
-**`Zero Trust: continuous verification and strict access control at every layer.`**
-
-</div>
+Miami, FL
