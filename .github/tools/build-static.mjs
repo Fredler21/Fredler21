@@ -81,10 +81,10 @@ function heroMobile() {
 
 // Stat tiles. Values stay in the primary ink, labels in the muted ink.
 const STATS = [
-  ["200+", "Users on the platform I keep secure"],
+  ["300+", "Users on the platform I keep secure"],
   ["10+", "Attackers trapped by my honeypot in 2 weeks"],
   ["3.90", "GPA, A.S. Cybersecurity, Miami Dade College"],
-  ["1,000+", "Monthly views on a site I built and run"],
+  ["1,500+", "Monthly visitors on a site I built and run"],
 ];
 const STATS_TITLE = STATS.map(([v, l]) => `${v}: ${l}`).join(". ") + ".";
 

@@ -13,13 +13,13 @@
 <p align="center">
 <picture>
 <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/Fredler21/Fredler21/main/assets/numbers-mobile.svg">
-<img src="https://raw.githubusercontent.com/Fredler21/Fredler21/main/assets/numbers.svg" width="828" alt="200+ users on the platform I keep secure. 10+ attackers trapped by my honeypot in 2 weeks. 3.90 GPA, A.S. Cybersecurity, Miami Dade College. 1,000+ monthly views on a site I built and run.">
+<img src="https://raw.githubusercontent.com/Fredler21/Fredler21/main/assets/numbers.svg" width="828" alt="300+ users on the platform I keep secure. 10+ attackers trapped by my honeypot in 2 weeks. 3.90 GPA, A.S. Cybersecurity, Miami Dade College. 1,500+ monthly visitors on a site I built and run.">
 </picture>
 </p>
 
 ## Hi, I'm Fredler
 
-I'm a cybersecurity student at Miami Dade College (GPA 3.90) and the Technology & Cybersecurity Lead at [EdLight Initiative](https://code.edlight.org), where I keep the backend for 200+ users running and locked down.
+I'm a cybersecurity student at Miami Dade College (GPA 3.90) and the Technology & Cybersecurity Lead at [EdLight Initiative](https://code.edlight.org), where I keep the backend for 300+ users running and locked down.
 
 I learn security by building real things and then defending them. I write the Firebase rules, I run the Nmap and Nikto scans, and I report what I find with a fix. I built my own honeypot because I wanted to watch real attackers instead of only reading about them. It caught more than 10 of them in its first two weeks.
 
@@ -33,7 +33,7 @@ Click any card to open the project.
 <a href="https://bulletproofsentinel.com"><img src="https://raw.githubusercontent.com/Fredler21/Fredler21/main/assets/work/bulletproof-sentinel.webp" width="412" alt="BulletProof Sentinel. Honeypot and threat monitoring. Decoy admin logins, fake WordPress pages, and bait API endpoints that record what attackers do. 10+ attackers trapped in its first 2 weeks. Next.js, TypeScript, Firebase."></a>
 <a href="https://github.com/Fredler21/FreddySec"><img src="https://raw.githubusercontent.com/Fredler21/Fredler21/main/assets/work/freddysec.webp" width="412" alt="FreddySec. Security command line tool in Python. A terminal copilot that runs the scan, reads the raw output, and explains what matters in plain language. Maps findings to MITRE ATT&amp;CK. Python, Linux, Kali."></a>
 <a href="https://edight-security-training.vercel.app"><img src="https://raw.githubusercontent.com/Fredler21/Fredler21/main/assets/work/security-training.webp" width="412" alt="EdLight Security Training. Security training for EdLight staff, with lessons and quizzes made for people who are not technical. Version 1 is live: modules and quizzes. Next.js, TypeScript."></a>
-<a href="https://trycleaninghacks.com"><img src="https://raw.githubusercontent.com/Fredler21/Fredler21/main/assets/work/trycleaninghacks.webp" width="412" alt="TryCleaningHacks. A content site I built and run end to end: code, SEO, publishing, and security. 1,000+ monthly views. Next.js, Vercel, Firebase."></a>
+<a href="https://trycleaninghacks.com"><img src="https://raw.githubusercontent.com/Fredler21/Fredler21/main/assets/work/trycleaninghacks.webp" width="412" alt="TryCleaningHacks. A content site I built and run end to end: code, SEO, publishing, and security. 1,500+ monthly visitors. Next.js, Vercel, Firebase."></a>
 <a href="https://prezidan-pa-m.web.app"><img src="https://raw.githubusercontent.com/Fredler21/Fredler21/main/assets/work/prezidan-pa-m.webp" width="412" alt="Prezidan Pa M. A neutral people's vote and civic game for Haiti's 2027 election, in Kreyòl, French, and English. Firestore rules enforce one vote per person. TypeScript, Vite, Firebase."></a>
 <a href="https://fredler21.github.io/devicepeek/"><img src="https://raw.githubusercontent.com/Fredler21/Fredler21/main/assets/work/devicepeek.webp" width="412" alt="DevicePeek. See any website as an iPhone and a laptop, side by side, right in the browser. Reports JavaScript errors and layout overflow. TypeScript, Vite."></a>
 </p>
@@ -50,7 +50,7 @@ Click any card to open the project.
 
 **Technology & Cybersecurity Lead · EdLight Initiative** · 08/2023 to present
 
-- Manage and secure the backend systems behind [code.edlight.org](https://code.edlight.org), used by 200+ users
+- Manage and secure the backend systems behind [code.edlight.org](https://code.edlight.org), used by 300+ users
 - Write and maintain the Firebase security rules that control who can read and write platform data
 - Run Nmap port and service scans and Nikto web scans, test attack scenarios on our endpoints, and report what I find with a suggested fix
 - Run the help desk for EdLight Scholars (300 Coursera and 300 DataCamp licenses): logins, account access, and license problems

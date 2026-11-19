@@ -40,7 +40,7 @@ export const WORK = [
     slug: "trycleaninghacks", bar: "trycleaninghacks.com", web: "https://trycleaninghacks.com", dismiss: "Decline",
     eyebrow: "Content platform", title: "TryCleaningHacks",
     desc: "A content site I built and run end to end: code, SEO, publishing, and security.",
-    metric: "1,000+ monthly views", tags: ["Next.js", "Vercel", "Firebase"],
+    metric: "1,500+ monthly visitors", tags: ["Next.js", "Vercel", "Firebase"],
   },
   {
     slug: "prezidan-pa-m", bar: "prezidan-pa-m.web.app", web: "https://prezidan-pa-m.web.app",
